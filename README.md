@@ -87,7 +87,7 @@ http://localhost/eye-wita/
 
 - 🌐 **Regional-language support** 
 - 🗺️ **Google Map integration**  
-- 📱 **Mobile app for Androic/iOS**
+- 📱 **Mobile app for Android/iOS**
 - 🤖 **AI-powered verification to detect fake or duplicate reports**
 
 ---
@@ -109,8 +109,5 @@ http://localhost/eye-wita/
 ## 📜 License  
 
 This project **EYE WITA** was developed and submitted as a **Final Year Project (2023)**  
-by **R. Reegan (20BCA166)** at **The American College** under the guidance of  
-**Mrs. S. S. Sarmila, MCA., M.E (CSE), Assistant Professor**.  
-
-All rights reserved © 2023 – The American College.  
+by **R. Reegan (20BCA166)** at **The American College, Madurai**
 
